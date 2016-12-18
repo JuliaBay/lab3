@@ -1,17 +1,28 @@
+body {
+    background-color: #6ff6ff;
+    font-family: 'Roboto', sans-serif;
+}
+
+table {
+    width: 100%;
+}
+
+[type="header"] {
+    color: #8f8f8f;
+}
+
 h1 {
-    color: #5090ff  ;
-    margin-left: 11em; 
-    font-size: 30pt;
+    margin-left: 37%;
+	font: 60px;
 }
 
 h2 {
-    color: #000090   ;
     margin-left: 2em;
     font-size: 25pt;
 }
 
 h3 {
-    color: #000050;
+    font-size: 15pt;
 }
 
 img {
@@ -19,12 +30,11 @@ img {
 }
 
 pre {
-    font-family: 'Roboto Slab', serif;
     font-size: 14pt;
 }
 
 .c1 {
-    color: #0066FF;
+    color: #8f8f8f;
     margin-left: 1em;
     font-size: 18pt;
 }
@@ -34,7 +44,6 @@ td {
 }
 
 li, p {
-    font-family: 'Ubuntu Mono';
 	padding:5px 5px;
     text-align: justify;
 }
